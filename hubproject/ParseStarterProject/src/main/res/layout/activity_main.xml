@@ -14,21 +14,55 @@
                 android:paddingRight="@dimen/activity_horizontal_margin"
                 android:paddingTop="@dimen/activity_vertical_margin"
                 android:paddingBottom="@dimen/activity_vertical_margin"
-                tools:context=".MainActivity">
-
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/imageView"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true" />
+                tools:context=".MainActivity"
+    android:background="#290019">
 
     <Switch
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/riderOrDriverSwitch"
-        android:layout_below="@+id/imageView"
+        android:checked="false"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:src="@drawable/hub_logotype_for_initial_mvp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Get Started"
+        android:id="@+id/getStartedButton"
+        android:layout_below="@+id/riderOrDriverSwitch"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="52dp"
-        android:checked="false" />
+        android:layout_marginTop="47dp"
+        android:onClick="getStarted" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rider"
+        android:id="@+id/textView"
+        android:textColor="#000000"
+        android:textSize="25dp"
+        android:layout_alignTop="@+id/riderOrDriverSwitch"
+        android:layout_alignLeft="@+id/imageView"
+        android:layout_alignStart="@+id/imageView" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Driver"
+        android:id="@+id/textView2"
+        android:layout_alignTop="@+id/riderOrDriverSwitch"
+        android:layout_toRightOf="@+id/riderOrDriverSwitch"
+        android:layout_toEndOf="@+id/riderOrDriverSwitch"
+        android:textColor="#000000"
+        android:textSize="25dp" />
+
 </RelativeLayout>

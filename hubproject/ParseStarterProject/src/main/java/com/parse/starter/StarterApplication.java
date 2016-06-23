@@ -31,7 +31,7 @@ public class StarterApplication extends Application {
     // Add your initialization code here
     Parse.initialize(new Parse.Configuration.Builder(getApplicationContext())
             .applicationId("liasngawug2424ydfh")
-            .clientKey(null)
+            .clientKey("egaudznvj4757")
             .server("http://hubproject.herokuapp.com/parse/")
     .build()
     );

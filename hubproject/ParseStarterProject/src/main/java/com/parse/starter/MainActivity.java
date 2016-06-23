@@ -8,6 +8,7 @@
  */
 package com.parse.starter;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.AppCompatActivity;
@@ -37,15 +38,23 @@ public class MainActivity extends AppCompatActivity {
         }
 
         ParseUser.getCurrentUser().put("riderOrDriver", riderDriver);
+        ParseUser.getCurrentUser().setUsername("tester");
 
         ParseUser.getCurrentUser().saveInBackground(new SaveCallback() {
             @Override
             public void done(ParseException e) {
                 if (e == null){
-                    Log.i("MyApp", "user signed up");
+                    redirectUser();
                 }
             }
         });
+    }
+
+    public void redirectUser(){
+        if (ParseUser.getCurrentUser().get("riderOrDriver").equals("rider")){
+            Intent i = new Intent(getApplicationContext(), YourLocation.class);
+            startActivity(i);
+        }
     }
 
   @Override
@@ -74,7 +83,7 @@ public class MainActivity extends AppCompatActivity {
       }
       else{
           if (ParseUser.getCurrentUser().get("riderOrDriver") != null){
-              Log.i("MyApp","Redirect user");
+              redirectUser();
           }
       }
   }

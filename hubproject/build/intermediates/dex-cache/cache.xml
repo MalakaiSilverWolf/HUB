@@ -2,46 +2,137 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.0.2\jars\classes.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.0_13e7439f15bf21c85003320c920ffedfaa4458bd\classes.dex" />
+        sha1="d9ea4cdaafa29ec4651d6e4715788d3fcaa7b913">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.0.2_d82f2d86a2645daf1d9475675d4402cc051ffbe2\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.2\jars\classes.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_980b1f6e2cfb3c1fd03310928792cc3a72ab7ae3\classes.dex" />
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.0.2_5c9c8b28154b52da4d8e960592d8280b79368a40\classes.dex" />
     </item>
     <item
         jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="611e2abd4dad1d992aa6a8234008a13693f382ce">
+        sha1="c40669542bfa7bacb0ee679a968f548ab19d13c8">
         <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_87132c72f2045985b79dd724f3ca858b52cb511c\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.0_31c2d8ca7daa652a0d69edb971b61d3b4250acfe\classes.dex" />
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.2_68503dd365543681f697691b6904f40f80e27f8e\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Malakai Silver\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.2\jars\classes.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.0_bb61be1ac2d25341da4858fc21959589bf042d6e\classes.dex" />
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.0.2_bf7a155281aee69836d54d7c4bb48e9d0e1254de\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\jars\classes.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="23f739cae7ba346033e410863288f3bb5ded74bd">
-        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_30e0d6aa9f91c3989be7bcf14f3b2a369296fe86\classes.dex" />
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.2_44721fc80fcc3b21914f062f022fcd5f748da518\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.0.2_de95d7644c6b4d9b28f11f2024385ef5dc6e8c34\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="143813b18381b28de1e04aae1d92fcb374a0add9">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.0.2_c24d09aec8b01cf0f236f028c80946c3e49df875\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a45bc1ed812137b21dddd1cedaa3712b308f0b3f">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.0.2_953da4011da33af304c804934d107b38f48aca38\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_38ae0300e93de6fc9a66526d5fbdc038b7b82e88\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.2_594368dd518239b4fb08ae981a2434312bdb5416\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_56d9af8bc85bc823d577d02a5d0edc5a65f95abf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.0.2_2489724fa11e5fca27e98b5b9792224a78edb258\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.0.2_5f5a6178e90521c8ed25632d2c640541571976c7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.0.2_d7e3194f5df8cb2732cb6dbebc1c09973d37b4a7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.0.2_51396d313ae18053e691221d08dbb524488853fd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.0.2_6578510c9609be95be61c99c3374dfac2d84c593\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.0.2_4db187017776b09615c4665df3125532a8097a08\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.0.2_d23a353b934c27e35242b059aacdaabe6dc8a927\classes.dex" />
     </item>
     <item
         jar="C:\Users\Malakai Silver\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
@@ -51,11 +142,256 @@
         <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_d44d36e8b6876e517a153ad7290c022e34070592\classes.dex" />
     </item>
     <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.0.2_f189a65e858389b1dd17dd7f6aaf2908b0487458\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.0.2_022e6e6bfc7afb2aa091b26e6818624e044818b3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.0.2_21436077497b1d6ed42f6161e35f3a9abf777818\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.0.2_54899e3aa2a2732e805ca34dfcd197e4700f54f2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.0.2_a650e13d4321292d09067094b92fbf90785b357e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="bc156efaaee99f1ef6bf471347373a4cbb28e2a1">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.0.2_25e745861e173913544746bfe4b69f4947e05e32\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f399a2fde7888450cadcaec4974bfd169d8cce43">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.0.2_dc9bad65e5a1f91306a4be82517c0339c5eaeb40\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_6fba2931e189ab57c55e70a96acf1ccf360af260\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_57ae557b6791669dcd9d9424373526fce58e52db\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_4894d389cf882052b945ecf5a545a77cec28d258\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.2_c91a1135357a810b5eb1b28dbde1eb972de2ed30\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.2_54dc32c04983c284cd0dfa51cc2bf6da5e0f396b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f3b2338befd548c8ac13d7afd013c3f21c5a2d03">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_30e0d6aa9f91c3989be7bcf14f3b2a369296fe86\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="7e52b440a26498c56b4f263e215223b5451c955e">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.0.2_6735ca9bea6b503e7f138744da775239a2d4d8d9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.2_acb5dfcdfd44962362cf1321626498eb4c8ac188\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e11da70cff6a544a45cdc21f419802d9bb9043ac">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.0.2_6bf2e954b58ecc6b0326ac7802151b2e1a48b77f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.2_bea0bcc49283eb1610fc9717e1d7b8338bbb3a39\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="604ecf403feb0084dc6d0c12f1677a490cf45e4c">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.0.2_8dac7bea1437d096678057f26a91bd77187a68aa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_1d3e6913dbfddfcfcc2788143ed5e55ab7c4c0d1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.0.2_67301021b8ce69027826d772e14ee90467081e97\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8c0fc9b1ea0bac0cb31d60c8b1bf2feb0518e3a9">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.0.2_2c6948bafbebc2da097e38491cab14ed2701e150\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_a14c2dd32c2d00288b359baa6059632506ef3d59\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_d435b22828213c662fe2a51661e52fea7e95aa47\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a498fab72f8663c26fbf3d4496eb6b673b17bcae">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.0.2_04b33aad871afccc62d5dfffc9b4c4a801133681\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.0.2_6b517831e33366154e2a264d9eb8fdfac9593160\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="b6af089f583d547bcffc0689b2e80bc7aaa54b15">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.0.2_ef65f86b187170372920d09eff4c165cdd22a357\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.0.2_2c22173ca14a58d5249a134231a7e59fb1afbbbf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.0.2_73ccc129b7a9ceced63ba90c5999bee6394e370d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.0.2_7d1249bf108447c8fbb157124af87d1b2c88573b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2ab5be19bbd34bae74662ea6b2d4451314d92d97">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.0.2_0e828991adaf67d1eac3be0a94a88a6d47612903\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.0.2_d8ce7b732865cf6e16516f67399aedd0a36ffe92\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="53f10fcd322a3931495d6ca2078a81f4957cdbce">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.0.2_04a5d103b5dcce2ef19d3f92b396d30dc3b4cfca\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_3c586221bada3f886d92f00bbeff753f9e4df051\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.0.2_928e0bd588cab1677f7f92c43c1310eaccbfe1fc\classes.dex" />
+    </item>
+    <item
         jar="C:\Users\Malakai Silver\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
         jumboMode="true"
         revision="23.0.1"
         sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
         <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\parse-android-1.13.0_952d3ed8197ad39f1bd49cd50069943e41dda848\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.0.2_8c04813a9e2205b27d2fdfa565221569feaa0979\classes.dex" />
     </item>
 
 </items>

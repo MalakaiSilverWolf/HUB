@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
-        "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_dark.xml"
-    },
-    {
         "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
         "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_dark.xml"
     },
     {
         "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
@@ -20,12 +20,12 @@
         "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
-        "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_light.xml"
-    },
-    {
         "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
         "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_light.xml"
     },
     {
         "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
@@ -36,16 +36,16 @@
         "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
         "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
         "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_light.xml"
     },
     {
-        "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
         "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
@@ -60,40 +60,40 @@
         "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
         "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
         "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
         "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
-    },
-    {
         "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
         "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.0.2\\res\\drawable\\cast_ic_notification_connecting.xml"
     },
     {
-        "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
         "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
         "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
         "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
@@ -104,12 +104,12 @@
         "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
         "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
@@ -128,12 +128,12 @@
         "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_light.xml"
     },
     {
-        "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
-        "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
-    },
-    {
         "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
         "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
     },
     {
         "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
@@ -142,6 +142,10 @@
     {
         "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
         "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\hub_logotype_for_initial_mvp.png",
+        "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\src\\main\\res\\drawable\\hub_logotype_for_initial_mvp.png"
     },
     {
         "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
@@ -180,11 +184,11 @@
         "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_google_signin_btn_text_light.xml"
-    },
-    {
         "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
         "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_google_signin_btn_text_light.xml"
     }
 ]
