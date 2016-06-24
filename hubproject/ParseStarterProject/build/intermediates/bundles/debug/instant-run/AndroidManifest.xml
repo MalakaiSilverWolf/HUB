@@ -87,6 +87,11 @@
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
+
+        <activity android:name="com.parse.starter.ViewRequests" />
+        <activity
+            android:name="com.parse.starter.ViewRiderLocation"
+            android:label="@string/title_activity_view_rider_location" />
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"

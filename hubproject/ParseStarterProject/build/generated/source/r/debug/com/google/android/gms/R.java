@@ -678,7 +678,7 @@ public final class R {
 		public static final int powered_by_google_light = 0x7f0200a4;
 	}
 	public static final class id {
-		public static final int action0 = 0x7f0d00a3;
+		public static final int action0 = 0x7f0d00a9;
 		public static final int action_bar = 0x7f0d0080;
 		public static final int action_bar_activity_content = 0x7f0d0000;
 		public static final int action_bar_container = 0x7f0d007f;
@@ -687,7 +687,7 @@ public final class R {
 		public static final int action_bar_subtitle = 0x7f0d0061;
 		public static final int action_bar_title = 0x7f0d0060;
 		public static final int action_context_bar = 0x7f0d0081;
-		public static final int action_divider = 0x7f0d00a7;
+		public static final int action_divider = 0x7f0d00ad;
 		public static final int action_menu_divider = 0x7f0d0002;
 		public static final int action_menu_presenter = 0x7f0d0003;
 		public static final int action_mode_bar = 0x7f0d007d;
@@ -710,10 +710,10 @@ public final class R {
 		public static final int buy_now = 0x7f0d0050;
 		public static final int buy_with = 0x7f0d0051;
 		public static final int buy_with_google = 0x7f0d0052;
-		public static final int cancel_action = 0x7f0d00a4;
+		public static final int cancel_action = 0x7f0d00aa;
 		public static final int cast_notification_id = 0x7f0d0004;
 		public static final int checkbox = 0x7f0d0078;
-		public static final int chronometer = 0x7f0d00aa;
+		public static final int chronometer = 0x7f0d00b0;
 		public static final int classic = 0x7f0d0059;
 		public static final int collapseActionView = 0x7f0d0032;
 		public static final int contact = 0x7f0d0026;
@@ -732,7 +732,7 @@ public final class R {
 		public static final int edit_query = 0x7f0d0082;
 		public static final int email = 0x7f0d0027;
 		public static final int end = 0x7f0d002a;
-		public static final int end_padder = 0x7f0d00ae;
+		public static final int end_padder = 0x7f0d00b4;
 		public static final int expand_activities_button = 0x7f0d0064;
 		public static final int expanded_menu = 0x7f0d0077;
 		public static final int google_wallet_classic = 0x7f0d005a;
@@ -751,7 +751,7 @@ public final class R {
 		public static final int ifRoom = 0x7f0d0033;
 		public static final int image = 0x7f0d0065;
 		public static final int index_entity_types = 0x7f0d003c;
-		public static final int info = 0x7f0d00ad;
+		public static final int info = 0x7f0d00b3;
 		public static final int instant_message = 0x7f0d0028;
 		public static final int intent_action = 0x7f0d001d;
 		public static final int intent_activity = 0x7f0d001e;
@@ -760,14 +760,14 @@ public final class R {
 		public static final int intent_extra_data = 0x7f0d0021;
 		public static final int large_icon_uri = 0x7f0d0022;
 		public static final int light = 0x7f0d0045;
-		public static final int line1 = 0x7f0d00a8;
-		public static final int line3 = 0x7f0d00ab;
+		public static final int line1 = 0x7f0d00ae;
+		public static final int line3 = 0x7f0d00b1;
 		public static final int listMode = 0x7f0d000b;
 		public static final int list_item = 0x7f0d0067;
 		public static final int logo_only = 0x7f0d0055;
 		public static final int match_global_nicknames = 0x7f0d003d;
 		public static final int match_parent = 0x7f0d004e;
-		public static final int media_actions = 0x7f0d00a6;
+		public static final int media_actions = 0x7f0d00ac;
 		public static final int middle = 0x7f0d002b;
 		public static final int monochrome = 0x7f0d005e;
 		public static final int multiply = 0x7f0d0016;
@@ -777,14 +777,14 @@ public final class R {
 		public static final int omnibox_title_section = 0x7f0d003e;
 		public static final int omnibox_url_section = 0x7f0d003f;
 		public static final int parentPanel = 0x7f0d006c;
-		public static final int place_autocomplete_clear_button = 0x7f0d00b1;
-		public static final int place_autocomplete_powered_by_google = 0x7f0d00b3;
-		public static final int place_autocomplete_prediction_primary_text = 0x7f0d00b5;
-		public static final int place_autocomplete_prediction_secondary_text = 0x7f0d00b6;
-		public static final int place_autocomplete_progress = 0x7f0d00b4;
-		public static final int place_autocomplete_search_button = 0x7f0d00af;
-		public static final int place_autocomplete_search_input = 0x7f0d00b0;
-		public static final int place_autocomplete_separator = 0x7f0d00b2;
+		public static final int place_autocomplete_clear_button = 0x7f0d00b7;
+		public static final int place_autocomplete_powered_by_google = 0x7f0d00b9;
+		public static final int place_autocomplete_prediction_primary_text = 0x7f0d00bb;
+		public static final int place_autocomplete_prediction_secondary_text = 0x7f0d00bc;
+		public static final int place_autocomplete_progress = 0x7f0d00ba;
+		public static final int place_autocomplete_search_button = 0x7f0d00b5;
+		public static final int place_autocomplete_search_input = 0x7f0d00b6;
+		public static final int place_autocomplete_separator = 0x7f0d00b8;
 		public static final int plain = 0x7f0d0037;
 		public static final int production = 0x7f0d0048;
 		public static final int progress_circular = 0x7f0d0007;
@@ -820,18 +820,18 @@ public final class R {
 		public static final int src_in = 0x7f0d0019;
 		public static final int src_over = 0x7f0d001a;
 		public static final int standard = 0x7f0d0041;
-		public static final int status_bar_latest_event_content = 0x7f0d00a5;
+		public static final int status_bar_latest_event_content = 0x7f0d00ab;
 		public static final int strict_sandbox = 0x7f0d004a;
 		public static final int submit_area = 0x7f0d008b;
 		public static final int tabMode = 0x7f0d000d;
 		public static final int terrain = 0x7f0d0030;
 		public static final int test = 0x7f0d004b;
-		public static final int text = 0x7f0d00ac;
+		public static final int text = 0x7f0d00b2;
 		public static final int text1 = 0x7f0d0023;
 		public static final int text2 = 0x7f0d0024;
 		public static final int textSpacerNoButtons = 0x7f0d0073;
 		public static final int thing_proto = 0x7f0d0025;
-		public static final int time = 0x7f0d00a9;
+		public static final int time = 0x7f0d00af;
 		public static final int title = 0x7f0d0069;
 		public static final int title_template = 0x7f0d006e;
 		public static final int topPanel = 0x7f0d006d;
@@ -878,22 +878,22 @@ public final class R {
 		public static final int abc_search_dropdown_item_icons_2line = 0x7f040016;
 		public static final int abc_search_view = 0x7f040017;
 		public static final int abc_select_dialog_material = 0x7f040018;
-		public static final int notification_media_action = 0x7f04001e;
-		public static final int notification_media_cancel_action = 0x7f04001f;
-		public static final int notification_template_big_media = 0x7f040020;
-		public static final int notification_template_big_media_narrow = 0x7f040021;
-		public static final int notification_template_lines = 0x7f040022;
-		public static final int notification_template_media = 0x7f040023;
-		public static final int notification_template_part_chronometer = 0x7f040024;
-		public static final int notification_template_part_time = 0x7f040025;
-		public static final int place_autocomplete_fragment = 0x7f040026;
-		public static final int place_autocomplete_item_powered_by_google = 0x7f040027;
-		public static final int place_autocomplete_item_prediction = 0x7f040028;
-		public static final int place_autocomplete_progress = 0x7f040029;
-		public static final int select_dialog_item_material = 0x7f04002a;
-		public static final int select_dialog_multichoice_material = 0x7f04002b;
-		public static final int select_dialog_singlechoice_material = 0x7f04002c;
-		public static final int support_simple_spinner_dropdown_item = 0x7f04002d;
+		public static final int notification_media_action = 0x7f040020;
+		public static final int notification_media_cancel_action = 0x7f040021;
+		public static final int notification_template_big_media = 0x7f040022;
+		public static final int notification_template_big_media_narrow = 0x7f040023;
+		public static final int notification_template_lines = 0x7f040024;
+		public static final int notification_template_media = 0x7f040025;
+		public static final int notification_template_part_chronometer = 0x7f040026;
+		public static final int notification_template_part_time = 0x7f040027;
+		public static final int place_autocomplete_fragment = 0x7f040028;
+		public static final int place_autocomplete_item_powered_by_google = 0x7f040029;
+		public static final int place_autocomplete_item_prediction = 0x7f04002a;
+		public static final int place_autocomplete_progress = 0x7f04002b;
+		public static final int select_dialog_item_material = 0x7f04002c;
+		public static final int select_dialog_multichoice_material = 0x7f04002d;
+		public static final int select_dialog_singlechoice_material = 0x7f04002e;
+		public static final int support_simple_spinner_dropdown_item = 0x7f04002f;
 	}
 	public static final class raw {
 		public static final int gtm_analytics = 0x7f060000;
@@ -966,7 +966,7 @@ public final class R {
 		public static final int tagmanager_preview_dialog_button = 0x7f070050;
 		public static final int tagmanager_preview_dialog_message = 0x7f070051;
 		public static final int tagmanager_preview_dialog_title = 0x7f070052;
-		public static final int wallet_buy_button_place_holder = 0x7f070054;
+		public static final int wallet_buy_button_place_holder = 0x7f070055;
 	}
 	public static final class style {
 		public static final int AlertDialog_AppCompat = 0x7f0a0087;

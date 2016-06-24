@@ -55,12 +55,18 @@ public class MainActivity extends AppCompatActivity {
             Intent i = new Intent(getApplicationContext(), YourLocation.class);
             startActivity(i);
         }
+        else{
+            Intent i = new Intent(getApplicationContext(), ViewRequests.class);
+            startActivity(i);
+        }
     }
 
   @Override
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
+
+     // ParseUser.getCurrentUser().put("riderOrDriver", "driver");
 
       riderOrDriver = (Switch) findViewById(R.id.riderOrDriverSwitch);
 

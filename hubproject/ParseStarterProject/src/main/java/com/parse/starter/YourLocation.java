@@ -174,22 +174,12 @@ public class YourLocation extends FragmentActivity implements LocationListener {
                                     requestHUBbutton.setVisibility(View.INVISIBLE);
 
                                     Log.i("AppInfo", driverUsername);
-
-
                                 }
-
                             }
-
-
                         }
-
-
                     }
-
                 }
             });
-
-
         }
 
         if (driverUsername.equals("")) {
@@ -210,17 +200,11 @@ public class YourLocation extends FragmentActivity implements LocationListener {
                     @Override
                     public void done(List<ParseUser> objects, ParseException e) {
                         if (e == null) {
-
                             if (objects.size() > 0) {
-
                                 for (ParseUser driver : objects) {
-
                                     driverLocation = driver.getParseGeoPoint("location");
-
                                 }
-
                             }
-
                         }
                     }
                 });
@@ -234,7 +218,6 @@ public class YourLocation extends FragmentActivity implements LocationListener {
                     Double distanceOneDP = (double) Math.round(distanceInMiles * 10) / 10;
 
                     infoTextView.setText("Your driver is " + distanceOneDP.toString() + " miles away ");
-
 
                     LatLngBounds.Builder builder = new LatLngBounds.Builder();
 
@@ -255,9 +238,7 @@ public class YourLocation extends FragmentActivity implements LocationListener {
 
                     mMap.animateCamera(cu);
                 }
-
             }
-
 
             final ParseGeoPoint userLocation = new ParseGeoPoint(location.getLatitude(), location.getLongitude());
 
@@ -277,28 +258,18 @@ public class YourLocation extends FragmentActivity implements LocationListener {
 
                                 object.put("requesterLocation", userLocation);
                                 object.saveInBackground();
-
                             }
-
-
                         }
-
                     }
-
                 }
             });
-
-
         }
-
         handler.postDelayed(new Runnable() {
             @Override
             public void run() {
                 updateLocation(location);
             }
         }, 5000);
-
-
     }
 
     @Override
@@ -381,8 +352,6 @@ public class YourLocation extends FragmentActivity implements LocationListener {
         mMap.clear();
 
         updateLocation(location);
-
-
     }
 
     @Override

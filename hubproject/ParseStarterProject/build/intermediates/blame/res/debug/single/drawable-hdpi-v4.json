@@ -80,12 +80,12 @@
         "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_cast_light.png"
     },
     {
-        "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
         "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
