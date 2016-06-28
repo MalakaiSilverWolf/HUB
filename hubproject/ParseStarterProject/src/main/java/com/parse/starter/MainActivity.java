@@ -16,6 +16,7 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.EditText;
 import android.widget.Switch;
 
 import com.parse.LogInCallback;
@@ -29,16 +30,19 @@ import com.parse.SaveCallback;
 public class MainActivity extends AppCompatActivity {
 
   Switch riderOrDriver;
+    EditText mUser;
 
     public void getStarted(View view){
         String riderDriver="rider";
+        mUser=(EditText) findViewById(R.id.userNameText);
+
+        ParseUser.getCurrentUser().setUsername(mUser.getText().toString());
 
         if(riderOrDriver.isChecked()){
             riderDriver="driver";
         }
 
         ParseUser.getCurrentUser().put("riderOrDriver", riderDriver);
-        ParseUser.getCurrentUser().setUsername("tester");
 
         ParseUser.getCurrentUser().saveInBackground(new SaveCallback() {
             @Override
@@ -69,6 +73,7 @@ public class MainActivity extends AppCompatActivity {
      // ParseUser.getCurrentUser().put("riderOrDriver", "rider");
 
       riderOrDriver = (Switch) findViewById(R.id.riderOrDriverSwitch);
+
 
     ParseAnalytics.trackAppOpenedInBackground(getIntent());
 
