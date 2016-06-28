@@ -19,7 +19,7 @@
         jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="0bd1515f399f36b2108345a448ba169d914dbdd9">
+        sha1="08e18f6c29b3696cb0094ed5a8d6c24872396531">
         <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_87132c72f2045985b79dd724f3ca858b52cb511c\classes.dex" />
     </item>
     <item
@@ -229,7 +229,7 @@
         jar="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="45733522cc2e33eab31686411e3eb0193a6bc8d9">
+        sha1="a76fa51b427b86df38525f25004d0cfa29a459ce">
         <dex dex="C:\Users\Malakai Silver\Documents\GitHub\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_30e0d6aa9f91c3989be7bcf14f3b2a369296fe86\classes.dex" />
     </item>
     <item
