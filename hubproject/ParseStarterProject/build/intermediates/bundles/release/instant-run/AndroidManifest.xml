@@ -92,6 +92,7 @@
         <activity
             android:name="com.parse.starter.ViewRiderLocation"
             android:label="@string/title_activity_view_rider_location" />
+        <activity android:name="com.parse.starter.SignUp" />
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"

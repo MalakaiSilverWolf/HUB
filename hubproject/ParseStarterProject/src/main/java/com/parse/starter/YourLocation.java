@@ -113,6 +113,9 @@ public class YourLocation extends FragmentActivity implements LocationListener {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_your_location);
+        String username = getIntent().getStringExtra("Username");
+        TextView tv = (TextView)findViewById(R.id.TVusername);
+        tv.setText(username);
         setUpMapIfNeeded();
 
         infoTextView = (TextView) findViewById(R.id.infoTextView);

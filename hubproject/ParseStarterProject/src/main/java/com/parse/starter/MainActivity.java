@@ -18,6 +18,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.Switch;
+import android.widget.Toast;
 
 import com.parse.LogInCallback;
 import com.parse.ParseAnalytics;
@@ -28,13 +29,38 @@ import com.parse.SaveCallback;
 
 
 public class MainActivity extends AppCompatActivity {
-
+    DatabaseHelper helper = new DatabaseHelper(this);
   Switch riderOrDriver;
-    EditText mUser;
 
-    public void getStarted(View view){
+    public void onButtonClick(View v){
+        EditText mUser=(EditText) findViewById(R.id.TFusername);
+        EditText mPass=(EditText) findViewById(R.id.TFpassword);
+        if (v.getId() == R.id.Blogin)
+        {
+            String user = mUser.getText().toString();
+            String pass = mPass.getText().toString();
+
+            String password = helper.searchPass(user);
+            if (pass.equals(password))
+            {
+                Intent i = new Intent(MainActivity.this, YourLocation.class);
+                i.putExtra("Username", user);
+                startActivity(i);
+            }
+            else
+            {
+                Toast temp = Toast.makeText(MainActivity.this, "Invalid username or password", Toast.LENGTH_SHORT);
+                temp.show();
+            }
+
+        }
+        if (v.getId() == R.id.Bsignup)
+        {
+            Intent i = new Intent(MainActivity.this, SignUp.class);
+            startActivity(i);
+        }
         String riderDriver="rider";
-        mUser=(EditText) findViewById(R.id.userNameText);
+
 
         ParseUser.getCurrentUser().setUsername(mUser.getText().toString());
 

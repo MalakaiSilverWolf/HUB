@@ -36,12 +36,13 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Get Started"
-        android:id="@+id/getStartedButton"
-        android:layout_below="@+id/riderOrDriverSwitch"
+        android:text="Log In"
+        android:id="@+id/Blogin"
+        android:onClick="onButtonClick"
+        android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="47dp"
-        android:onClick="getStarted" />
+        android:layout_marginBottom="41dp"
+        android:nestedScrollingEnabled="false" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -65,30 +66,51 @@
         android:textColor="#000000"
         android:textSize="25dp" />
 
-    <EditText
+    <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/userNameText"
-        android:enabled="true"
-        android:editable="true"
-        android:background="#ffffff"
-        android:inputType="textCapWords|textPersonName|text"
-        android:layout_below="@+id/imageView"
-        android:layout_alignLeft="@+id/riderOrDriverSwitch"
-        android:layout_alignStart="@+id/riderOrDriverSwitch"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:text=" " />
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Username"
+        android:id="@+id/textView3"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/TFusername"
+        android:layout_below="@+id/textView3"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Username:"
-        android:id="@+id/textView3"
-        android:textColor="#000000"
-        android:textSize="20dp"
-        android:layout_alignTop="@+id/userNameText"
-        android:layout_toLeftOf="@+id/userNameText"
-        android:layout_toStartOf="@+id/userNameText" />
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Password"
+        android:id="@+id/textView4"
+        android:layout_below="@+id/TFusername"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:id="@+id/TFpassword"
+        android:layout_below="@+id/textView4"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sign Up"
+        android:id="@+id/Bsignup"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:onClick="onButtonClick" />
 
 </RelativeLayout>

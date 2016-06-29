@@ -124,7 +124,7 @@
         jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\incremental-classes\release\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="d054ab006a12868ca7b61e0e5dce45282a270e32">
+        sha1="37a1272b1a35c0adc2354f3c882ff7d0b3631bd2">
         <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\instant-run-bootstrap_4ce703a44e7cea60a116aa86b32b283f63d7c933\classes.dex" />
     </item>
     <item
@@ -369,7 +369,7 @@
         jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\incremental-runtime-classes\release\instant-run.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="2594e212263fdf89eaf5d1065a870c576a100d98">
+        sha1="e95e6e3065c7ec9d8404b75c10bcfe2293f7934e">
         <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\instant-run_89f9b013d7f1a01c4a151acd732a3b263215428d\classes.dex" />
     </item>
     <item

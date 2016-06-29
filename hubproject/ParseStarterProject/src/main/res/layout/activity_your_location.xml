@@ -39,4 +39,14 @@
         android:layout_marginLeft="10dp"
         android:textColor="#30cdcf" />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/emptyString"
+        android:id="@+id/TVusername"
+        android:layout_alignTop="@+id/infoTextView"
+        android:layout_toRightOf="@+id/infoTextView"
+        android:layout_toEndOf="@+id/infoTextView" />
+
 </RelativeLayout>

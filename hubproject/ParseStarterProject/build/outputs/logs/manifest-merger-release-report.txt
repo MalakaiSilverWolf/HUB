@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\src\main\AndroidManifest.xml:9:1-75:12
+ADDED from C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\src\main\AndroidManifest.xml:9:1-76:12
 	package
 		ADDED from C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\src\main\AndroidManifest.xml:10:5-32
 		INJECTED from C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\src\main\AndroidManifest.xml
@@ -104,7 +104,7 @@ ADDED from C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\src\main\Androi
 	android:name
 		ADDED from C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\src\main\AndroidManifest.xml:22:22-76
 application
-ADDED from C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\src\main\AndroidManifest.xml:24:5-73:19
+ADDED from C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\src\main\AndroidManifest.xml:24:5-74:19
 MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
@@ -1629,6 +1629,10 @@ ADDED from C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\src\main\Androi
 		ADDED from C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\src\main\AndroidManifest.xml:72:13-71
 	android:name
 		ADDED from C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\src\main\AndroidManifest.xml:71:13-46
+activity#com.parse.starter.SignUp
+ADDED from C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\src\main\AndroidManifest.xml:73:9-53
+	android:name
+		ADDED from C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\src\main\AndroidManifest.xml:73:19-41
 uses-sdk
 INJECTED from C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:multidex:1.0.1] C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42

@@ -325,6 +325,7 @@
     <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
     <string name="create_calendar_title">Create calendar event</string>
     <string name="decline">Decline</string>
+    <string name="emptyString"/>
     <string name="google_api_key">AIzaSyD5vfwWx9LcBZFgqXkh_9lvqbSoeRbAKBQ </string>
     <string name="google_app_id">forward-walker-133623</string>
     <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">

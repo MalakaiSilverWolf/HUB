@@ -70,6 +70,7 @@
         <activity
             android:name=".ViewRiderLocation"
             android:label="@string/title_activity_view_rider_location"></activity>
+        <activity android:name=".SignUp"></activity>
     </application>
 
 </manifest>
