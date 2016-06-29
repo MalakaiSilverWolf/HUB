@@ -8,12 +8,12 @@
         "source": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_item_powered_by_google.xml",
-        "source": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
-    },
-    {
         "merged": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout\\mr_media_route_chooser_dialog.xml",
         "source": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
     },
     {
         "merged": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",

@@ -328,7 +328,7 @@
     <string name="google_api_key">AIzaSyD5vfwWx9LcBZFgqXkh_9lvqbSoeRbAKBQ </string>
     <string name="google_app_id">forward-walker-133623</string>
     <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
-        YOUR_KEY_HERE
+        AIzaSyD5vfwWx9LcBZFgqXkh_9lvqbSoeRbAKBQ
     </string>
     <string name="hello_world">Hello World!</string>
     <string name="mr_media_route_button_content_description">Cast</string>
