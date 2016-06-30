@@ -1635,7 +1635,6 @@ ADDED from C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\src\main\Androi
 		ADDED from C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\src\main\AndroidManifest.xml:73:19-41
 uses-sdk
 INJECTED from C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:multidex:1.0.1] C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
 MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
@@ -2746,7 +2745,7 @@ MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Aaron
 MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:multidex:1.0.1] C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\multidex\1.0.0\AndroidManifest.xml:18:5-42
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
@@ -3093,7 +3092,7 @@ ADDED from [com.google.firebase:firebase-crash:9.0.2] C:\Users\Aaron\HUB\HUB\hub
 		ADDED from [com.google.firebase:firebase-crash:9.0.2] C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.2\AndroidManifest.xml:30:13-48
 	android:name
 		ADDED from [com.google.firebase:firebase-crash:9.0.2] C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.2\AndroidManifest.xml:29:18-77
-permission#com.hub.ride.with.us.permission.C2D_MESSAGE
+permission#com.ride.hub.permission.C2D_MESSAGE
 MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:25:5-26:47
 MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:25:5-26:47
 MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:25:5-26:47
@@ -3102,7 +3101,7 @@ MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Aaron\HUB\HUB\hubp
 MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:25:5-26:47
 MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:25:5-26:47
 MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:25:5-26:47
-uses-permission#com.hub.ride.with.us.permission.C2D_MESSAGE
+uses-permission#com.ride.hub.permission.C2D_MESSAGE
 MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:28:5-79
 MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:28:5-79
 MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:28:5-79

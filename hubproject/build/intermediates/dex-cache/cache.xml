@@ -2,396 +2,382 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="2ab5be19bbd34bae74662ea6b2d4451314d92d97">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-vision-9.0.2_b6d5e4fabd85dd55e75c21c4941d6caed92d4ae1\classes.dex" />
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\multidex\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.android.support-multidex-1.0.0_1f005f1bcc63c327d51d4094d2004339fc1a18b8\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-basement-9.0.2_cb679169d2bc070e08e9e30f9afa7418ae0a1bd6\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.2_d372307a7111b996a0882e19a84565945447cdcf\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-appindexing-9.0.2_dca1cbcd2f9dc9d431231620154d329e156dbd24\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-analytics-9.0.2_f35ae51cae7d35cee7d2fee02a0cfcc7b5b45d9d\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.firebase-firebase-database-connection-9.0.2_7073dcf53b825fea87c4a6078f0f8db48701611a\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.firebase-firebase-common-9.0.2_d3ed4afd357daf41bd80c552b06ddfffd8afa2c6\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-identity-9.0.2_b10bb29349c3f58d5171720e571b4df0877e85e2\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="e11da70cff6a544a45cdc21f419802d9bb9043ac">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-appinvite-9.0.2_826e4748405f88e68c54611415ad546a47fb0cfd\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="d9ea4cdaafa29ec4651d6e4715788d3fcaa7b913">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.0.2_aa475b02757aa1892dcd99b76e617ccaf74bc1f2\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.firebase-firebase-auth-module-9.0.2_874aaf1f01906e220791c9d2dce5dcc06f111f2c\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="7e52b440a26498c56b4f263e215223b5451c955e">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-nearby-9.0.2_c375b5a49ea72faee64e5c01f22159c78c7e188b\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.firebase-firebase-storage-common-9.0.2_98da771d73fa99e105b8c04713f7be4e023943df\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-base-9.0.2_9f5a8db26d1d5aa8b2ea876370147cd9387a1b8c\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="bc156efaaee99f1ef6bf471347373a4cbb28e2a1">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-wallet-9.0.2_ab1987f4becfe9eda86def50abc9df71a029a97f\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\parse-android-1.13.0_e145b25f1968aaea022fe7d808483512f5d6b3d5\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-maps-9.0.2_0e0e5fcd856fcce8bf8b64487b933746bfe71c1b\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\incremental-classes\release\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="37a1272b1a35c0adc2354f3c882ff7d0b3631bd2">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\instant-run-bootstrap_4ce703a44e7cea60a116aa86b32b283f63d7c933\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="829c6e46cb221c2102801221c648b77113743e81">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-auth-base-9.0.2_5ca606db670d407c6f8b7eaba1932f93430e1ba8\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\internal_impl-23.4.0_f1956056795c0a5d258ed4c5f8aa85e70c5da7aa\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="143813b18381b28de1e04aae1d92fcb374a0add9">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-drive-9.0.2_e443a6bbbbe638c46c395cd562a775ca16b2962f\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-plus-9.0.2_5cd7c4d0b3f1d06a05bb86ba3527a48d32bc7479\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.firebase-firebase-database-9.0.2_019d46ce954e1bde02ec5bb03bc16f18633e7d82\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.android.support-appcompat-v7-23.4.0_2f594d13026dddb9cd0a0f260fa5203ac90af741\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.firebase-firebase-crash-9.0.2_97d187c3c42b9f37ec0a483258036a0c4ebab7c1\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="8c0fc9b1ea0bac0cb31d60c8b1bf2feb0518e3a9">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-panorama-9.0.2_0500574efec979752ba3679065cbee618ee87c72\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="53f10fcd322a3931495d6ca2078a81f4957cdbce">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-fitness-9.0.2_199b1fefda1962eb796f0e67c026cfe488b15aa4\classes.dex" />
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\internal_impl-23.0.0_7641d952f330430b6c87388bee18793a69519f55\classes.dex" />
     </item>
     <item
         jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
+        jumboMode="false"
+        revision="23.0.3"
         sha1="604ecf403feb0084dc6d0c12f1677a490cf45e4c">
         <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.firebase-firebase-config-9.0.2_0c907acfd58495116fcf5d035b85c42e7560a5f8\classes.dex" />
     </item>
     <item
         jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
+        jumboMode="false"
+        revision="23.0.3"
         sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
         <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.firebase-firebase-auth-common-9.0.2_9ee94c55c9dc8ee646fa0c42f6fa10b7abdf5f4a\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="f399a2fde7888450cadcaec4974bfd169d8cce43">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.0.2_7e9165bd3729688267762f29d08876959409c9e5\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.0.2_79d4ff057b12c9f6f0031d70c8b689d4be50c3d1\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-location-9.0.2_3e46ac7731ab455fd8692d3ccd9bce34644f18ec\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-gcm-9.0.2_a0b157bd009d0a43fd3c7ced49e9f167614e13d2\classes.dex" />
-    </item>
-    <item
         jar="C:\Users\Aaron\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
-        jumboMode="true"
-        revision="23.0.1"
+        jumboMode="false"
+        revision="23.0.3"
         sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
         <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\support-annotations-23.4.0_7019992796422f5552440dcfbe06cd052c31934d\classes.dex" />
     </item>
     <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-gcm-9.0.2_a0b157bd009d0a43fd3c7ced49e9f167614e13d2\classes.dex" />
+    </item>
+    <item
         jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
+        jumboMode="false"
+        revision="23.0.3"
         sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
         <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.firebase-firebase-storage-9.0.2_b3869dba94a9e64918196197eea8ab4d876cdf56\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.firebase-firebase-messaging-9.0.2_89019a8ff23b4fd1e06bde4550b71191db3e36f9\classes.dex" />
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-location-9.0.2_3e46ac7731ab455fd8692d3ccd9bce34644f18ec\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f399a2fde7888450cadcaec4974bfd169d8cce43">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.0.2_7e9165bd3729688267762f29d08876959409c9e5\classes.dex" />
     </item>
     <item
         jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
+        jumboMode="false"
+        revision="23.0.3"
         sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
         <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.firebase-firebase-analytics-9.0.2_852d1fecf43e99eb84adba6c56c2ab9d5e776c65\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\internal_impl-23.0.0_7641d952f330430b6c87388bee18793a69519f55\classes.dex" />
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.firebase-firebase-messaging-9.0.2_89019a8ff23b4fd1e06bde4550b71191db3e36f9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.0.2_79d4ff057b12c9f6f0031d70c8b689d4be50c3d1\classes.dex" />
     </item>
     <item
         jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
+        jumboMode="false"
+        revision="23.0.3"
         sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
         <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-iid-9.0.2_05407bbc2bacd95647950850f14d24d51b0987d8\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="a498fab72f8663c26fbf3d4496eb6b673b17bcae">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-games-9.0.2_06b22a486ca0e33a1b0873f3b4c94f38233630d6\classes.dex" />
-    </item>
-    <item
         jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
+        jumboMode="false"
+        revision="23.0.3"
         sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
         <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-auth-9.0.2_734026ce1e390916eda8780acd605896977d96f2\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_326bf39b4232f74f0fb297377d110ebe4bb7a8dd\classes.dex" />
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-base-9.0.2_9f5a8db26d1d5aa8b2ea876370147cd9387a1b8c\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="b6af089f583d547bcffc0689b2e80bc7aaa54b15">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-safetynet-9.0.2_4307f39e1daa96b6a44a90371f9f5962295a94e6\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-wearable-9.0.2_cdbd17d6a031bc938fe38406434a0d08015cf95f\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.android.support-multidex-1.0.1_4649eeb52f34565217e6ad8d4a013c9df69a9aea\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.firebase-firebase-iid-9.0.2_dfcb3d0fe08bbb88ee6df4c26a0d6fbddf8fa46a\classes.dex" />
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a498fab72f8663c26fbf3d4496eb6b673b17bcae">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-games-9.0.2_06b22a486ca0e33a1b0873f3b4c94f38233630d6\classes.dex" />
     </item>
     <item
         jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
+        jumboMode="false"
+        revision="23.0.3"
         sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
         <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-ads-9.0.2_e5baad48a646973ae3c8b1fdf72b1ee35fd99d11\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="a45bc1ed812137b21dddd1cedaa3712b308f0b3f">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-cast-9.0.2_e3151f4dc3525b1676757e1c0e25b6b6dff37b2b\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.2_c9e0254de7dc71b7f14c4c112439208dfcf6e353\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_be8a86fa7168ba81cb405297743ace77b7d7633a\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_10b1e6f4d4cea0902fd39a5bf3e4b08cea4ad07a\classes.dex" />
-    </item>
-    <item
         jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
+        jumboMode="false"
+        revision="23.0.3"
         sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
         <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.android.support-support-v4-23.4.0_4966077ec5adf7dd9de535cd43085d3194ddbdf0\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\incremental-runtime-classes\release\instant-run.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="e95e6e3065c7ec9d8404b75c10bcfe2293f7934e">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\instant-run_89f9b013d7f1a01c4a151acd732a3b263215428d\classes.dex" />
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e11da70cff6a544a45cdc21f419802d9bb9043ac">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-appinvite-9.0.2_826e4748405f88e68c54611415ad546a47fb0cfd\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
-        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
-        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.firebase-firebase-auth-9.0.2_709ea9639aed3f4e29596cb1ff81f7a169d00ad1\classes.dex" />
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.firebase-firebase-iid-9.0.2_dfcb3d0fe08bbb88ee6df4c26a0d6fbddf8fa46a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-wearable-9.0.2_cdbd17d6a031bc938fe38406434a0d08015cf95f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.2_c9e0254de7dc71b7f14c4c112439208dfcf6e353\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a45bc1ed812137b21dddd1cedaa3712b308f0b3f">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-cast-9.0.2_e3151f4dc3525b1676757e1c0e25b6b6dff37b2b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_be8a86fa7168ba81cb405297743ace77b7d7633a\classes.dex" />
     </item>
     <item
         jar="C:\Users\Aaron\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
-        jumboMode="true"
-        revision="23.0.1"
+        jumboMode="false"
+        revision="23.0.3"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
         <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\bolts-tasks-1.4.0_bef81a4810a5fac8372887cf28789704c4c05045\classes.dex" />
     </item>
     <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_10b1e6f4d4cea0902fd39a5bf3e4b08cea4ad07a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_326bf39b4232f74f0fb297377d110ebe4bb7a8dd\classes.dex" />
+    </item>
+    <item
         jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.1"
+        jumboMode="false"
+        revision="23.0.3"
         sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
         <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.0.2_41ca8d291062e4ad751498288457be9aba35cae2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.firebase-firebase-auth-9.0.2_709ea9639aed3f4e29596cb1ff81f7a169d00ad1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7e52b440a26498c56b4f263e215223b5451c955e">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-nearby-9.0.2_c375b5a49ea72faee64e5c01f22159c78c7e188b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-appindexing-9.0.2_dca1cbcd2f9dc9d431231620154d329e156dbd24\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-identity-9.0.2_b10bb29349c3f58d5171720e571b4df0877e85e2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.2_d372307a7111b996a0882e19a84565945447cdcf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-basement-9.0.2_cb679169d2bc070e08e9e30f9afa7418ae0a1bd6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-analytics-9.0.2_f35ae51cae7d35cee7d2fee02a0cfcc7b5b45d9d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2ab5be19bbd34bae74662ea6b2d4451314d92d97">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-vision-9.0.2_b6d5e4fabd85dd55e75c21c4941d6caed92d4ae1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="143813b18381b28de1e04aae1d92fcb374a0add9">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-drive-9.0.2_e443a6bbbbe638c46c395cd562a775ca16b2962f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.firebase-firebase-common-9.0.2_d3ed4afd357daf41bd80c552b06ddfffd8afa2c6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.firebase-firebase-storage-common-9.0.2_98da771d73fa99e105b8c04713f7be4e023943df\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\parse-android-1.13.0_e145b25f1968aaea022fe7d808483512f5d6b3d5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d9ea4cdaafa29ec4651d6e4715788d3fcaa7b913">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.0.2_aa475b02757aa1892dcd99b76e617ccaf74bc1f2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b6af089f583d547bcffc0689b2e80bc7aaa54b15">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-safetynet-9.0.2_4307f39e1daa96b6a44a90371f9f5962295a94e6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.firebase-firebase-database-connection-9.0.2_7073dcf53b825fea87c4a6078f0f8db48701611a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.firebase-firebase-auth-module-9.0.2_874aaf1f01906e220791c9d2dce5dcc06f111f2c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="bc156efaaee99f1ef6bf471347373a4cbb28e2a1">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-wallet-9.0.2_ab1987f4becfe9eda86def50abc9df71a029a97f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-maps-9.0.2_0e0e5fcd856fcce8bf8b64487b933746bfe71c1b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.firebase-firebase-crash-9.0.2_97d187c3c42b9f37ec0a483258036a0c4ebab7c1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-auth-base-9.0.2_5ca606db670d407c6f8b7eaba1932f93430e1ba8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.firebase-firebase-database-9.0.2_019d46ce954e1bde02ec5bb03bc16f18633e7d82\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-plus-9.0.2_5cd7c4d0b3f1d06a05bb86ba3527a48d32bc7479\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\internal_impl-23.4.0_f1956056795c0a5d258ed4c5f8aa85e70c5da7aa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.android.support-appcompat-v7-23.4.0_2f594d13026dddb9cd0a0f260fa5203ac90af741\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8c0fc9b1ea0bac0cb31d60c8b1bf2feb0518e3a9">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-panorama-9.0.2_0500574efec979752ba3679065cbee618ee87c72\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="53f10fcd322a3931495d6ca2078a81f4957cdbce">
+        <dex dex="C:\Users\Aaron\HUB\HUB\hubproject\ParseStarterProject\build\intermediates\transforms\dex\release\folders\1000\10\com.google.android.gms-play-services-fitness-9.0.2_199b1fefda1962eb796f0e67c026cfe488b15aa4\classes.dex" />
     </item>
 
 </items>
