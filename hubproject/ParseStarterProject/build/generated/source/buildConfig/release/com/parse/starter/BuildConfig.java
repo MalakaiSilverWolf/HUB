@@ -4,7 +4,7 @@
 package com.parse.starter;
 
 public final class BuildConfig {
-  public static final boolean DEBUG = false;
+  public static final boolean DEBUG = Boolean.parseBoolean("true");
   public static final String APPLICATION_ID = "com.ride.hub";
   public static final String BUILD_TYPE = "release";
   public static final String FLAVOR = "";

@@ -30,7 +30,7 @@ import com.parse.SaveCallback;
 
 public class MainActivity extends AppCompatActivity {
     DatabaseHelper helper = new DatabaseHelper(this);
-  Switch riderOrDriver;
+    Switch riderOrDriver;
 
     public void onButtonClick(View v){
         EditText mUser=(EditText) findViewById(R.id.TFusername);

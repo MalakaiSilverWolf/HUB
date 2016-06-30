@@ -4,7 +4,6 @@ import android.content.Intent;
 import android.net.Uri;
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.view.ViewTreeObserver;
 import android.widget.RelativeLayout;
@@ -19,21 +18,21 @@ import com.google.android.gms.maps.model.LatLngBounds;
 import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
 import com.parse.FindCallback;
-import com.parse.Parse;
 import com.parse.ParseException;
-import com.parse.ParseGeoPoint;
 import com.parse.ParseObject;
 import com.parse.ParseQuery;
 import com.parse.ParseUser;
 import com.parse.SaveCallback;
+import com.google.android.gms.maps.OnMapReadyCallback;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class ViewRiderLocation extends FragmentActivity {
+public class ViewRiderLocation extends FragmentActivity implements OnMapReadyCallback {
 
-    private GoogleMap mMap; // Might be null if Google Play services APK is not available.
+    private GoogleMap mMap;
     Intent i;
+
 
     public  void back(View view) {
 
@@ -81,82 +80,65 @@ public class ViewRiderLocation extends FragmentActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_view_rider_location);
-
+        ((SupportMapFragment) getSupportFragmentManager().findFragmentById(R.id.map))
+                .getMapAsync(this);
         i = getIntent();
 
-        setUpMapIfNeeded();
 
-        RelativeLayout mapLayout = (RelativeLayout)findViewById(R.id.relativeLayout);
+       // RelativeLayout mapLayout = (RelativeLayout)findViewById(R.id.relativeLayout);
 
-        mapLayout.getViewTreeObserver().addOnGlobalLayoutListener(new ViewTreeObserver.OnGlobalLayoutListener() {
-            @Override
-            public void onGlobalLayout() {
+      //  mapLayout.getViewTreeObserver().addOnGlobalLayoutListener(new ViewTreeObserver.OnGlobalLayoutListener() {
+       //     @Override
+         //   public void onGlobalLayout() {
 
-                LatLngBounds.Builder builder = new LatLngBounds.Builder();
+          //      LatLngBounds.Builder builder = new LatLngBounds.Builder();
 
-                ArrayList<Marker> markers = new ArrayList<Marker>();
+            //    ArrayList<Marker> markers = new ArrayList<>();
 
-                markers.add(mMap.addMarker(new MarkerOptions().position(new LatLng(i.getDoubleExtra("latitude", 0), i.getDoubleExtra("longitude", 0))).icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_BLUE)).title("Rider Location")));
+            //    markers.add(mMap.addMarker(new MarkerOptions().position(new LatLng(i.getDoubleExtra("latitude", 0), i.getDoubleExtra("longitude", 0))).icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_BLUE)).title("Rider Location")));
 
-                markers.add(mMap.addMarker(new MarkerOptions().position(new LatLng(i.getDoubleExtra("userLatitude", 0), i.getDoubleExtra("userLongitude", 0))).title("Your Location")));
+            //    markers.add(mMap.addMarker(new MarkerOptions().position(new LatLng(i.getDoubleExtra("userLatitude", 0), i.getDoubleExtra("userLongitude", 0))).title("Your Location")));
 
-                for (Marker marker : markers) {
-                    builder.include(marker.getPosition());
-                }
+             //   for (Marker marker : markers) {
+               //     builder.include(marker.getPosition());
+              //  }
 
-                LatLngBounds bounds = builder.build();
+              //  LatLngBounds bounds = builder.build();
 
-                int padding = 100;
-                CameraUpdate cu = CameraUpdateFactory.newLatLngBounds(bounds, padding);
+              //  int padding = 100;
+              //  CameraUpdate cu = CameraUpdateFactory.newLatLngBounds(bounds, padding);
 
-                mMap.animateCamera(cu);
+              //  mMap.animateCamera(cu);
 
-            }
-        });
+           // }
+       // });
 
     }
 
     @Override
-    protected void onResume() {
-        super.onResume();
-        setUpMapIfNeeded();
+    public void onMapReady(GoogleMap googleMap) {
+        mMap = googleMap;
+        setUpMap();
     }
 
-    /**
-     * Sets up the map if it is possible to do so (i.e., the Google Play services APK is correctly
-     * installed) and the map has not already been instantiated.. This will ensure that we only ever
-     * call {@link #setUpMap()} once when {@link #mMap} is not null.
-     * <p>
-     * If it isn't installed {@link SupportMapFragment} (and
-     * {@link com.google.android.gms.maps.MapView MapView}) will show a prompt for the user to
-     * install/update the Google Play services APK on their device.
-     * <p>
-     * A user can return to this FragmentActivity after following the prompt and correctly
-     * installing/updating/enabling the Google Play services. Since the FragmentActivity may not
-     * have been completely destroyed during this process (it is likely that it would only be
-     * stopped or paused), {@link #onCreate(Bundle)} may not be called again so we should call this
-     * method in {@link #onResume()} to guarantee that it will be called.
-     */
-    private void setUpMapIfNeeded() {
-        // Do a null check to confirm that we have not already instantiated the map.
-        if (mMap == null) {
-            // Try to obtain the map from the SupportMapFragment.
-            mMap = ((SupportMapFragment) getSupportFragmentManager().findFragmentById(R.id.map))
-                    .getMap();
-            // Check if we were successful in obtaining the map.
-            if (mMap != null) {
-                setUpMap();
-            }
-        }
-    }
-
-    /**
-     * This is where we can add markers or lines, add listeners or move the camera. In this case, we
-     * just add a marker near Africa.
-     * <p>
-     * This should only be called once and when we are sure that {@link #mMap} is not null.
-     */
     private void setUpMap() {
+        LatLngBounds.Builder builder = new LatLngBounds.Builder();
 
+        ArrayList<Marker> markers = new ArrayList<>();
+
+        markers.add(mMap.addMarker(new MarkerOptions().position(new LatLng(i.getDoubleExtra("latitude", 0), i.getDoubleExtra("longitude", 0))).icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_BLUE)).title("Rider Location")));
+
+        markers.add(mMap.addMarker(new MarkerOptions().position(new LatLng(i.getDoubleExtra("userLatitude", 0), i.getDoubleExtra("userLongitude", 0))).title("Your Location")));
+
+        for (Marker marker : markers) {
+            builder.include(marker.getPosition());
+        }
+
+        LatLngBounds bounds = builder.build();
+
+        int padding = 100;
+        CameraUpdate cu = CameraUpdateFactory.newLatLngBounds(bounds, padding);
+
+        mMap.animateCamera(cu);
     }
 }

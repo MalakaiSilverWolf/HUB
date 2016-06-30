@@ -48,14 +48,14 @@ public class ViewRequests extends AppCompatActivity implements LocationListener 
         setContentView(R.layout.activity_view_requests);
 
         listView = (ListView) findViewById(R.id.listView);
-        listViewContent = new ArrayList<String>();
-        usernames = new ArrayList<String>();
-        latitudes = new ArrayList<Double>();
-        longitudes = new ArrayList<Double>();
+        listViewContent = new ArrayList<>();
+        usernames = new ArrayList<>();
+        latitudes = new ArrayList<>();
+        longitudes = new ArrayList<>();
 
         listViewContent.add("Finding nearby requests...");
 
-        arrayAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, listViewContent);
+        arrayAdapter = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, listViewContent);
 
         listView.setAdapter(arrayAdapter);
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
