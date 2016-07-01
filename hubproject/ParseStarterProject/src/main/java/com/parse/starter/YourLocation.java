@@ -1,23 +1,26 @@
 package com.parse.starter;
 
+
+import android.Manifest;
 import android.content.Context;
 import android.content.pm.PackageManager;
-import android.location.Criteria;
 import android.location.Location;
 import android.location.LocationListener;
 import android.location.LocationManager;
 import android.os.Handler;
-import android.support.v4.app.ActivityCompat;
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
+import android.support.v4.content.ContextCompat;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.google.android.gms.maps.CameraUpdate;
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
+import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.BitmapDescriptorFactory;
 import com.google.android.gms.maps.model.LatLng;
@@ -36,12 +39,12 @@ import com.parse.SaveCallback;
 import java.util.ArrayList;
 import java.util.List;
 
-public class YourLocation extends FragmentActivity implements LocationListener {
+public class YourLocation extends FragmentActivity implements OnMapReadyCallback, LocationListener {
 
     private GoogleMap mMap; // Might be null if Google Play services APK is not available.
-
-    LocationManager locationManager;
-    String provider;
+    private LocationManager locationManager;
+    private static final long MIN_TIME = 400;
+    private static final float MIN_DISTANCE = 1000;
 
     TextView infoTextView;
     Button requestHUBbutton;
@@ -52,11 +55,12 @@ public class YourLocation extends FragmentActivity implements LocationListener {
 
     Handler handler = new Handler();
 
+
     public void requestRide(View view) {
 
-        if (requestActive == false) {
+        if (!requestActive) {
 
-            Log.i("MyApp", "HUB requesed");
+            Log.i("MyApp", "HUB requested");
 
             ParseObject request = new ParseObject("Requests");
 
@@ -85,7 +89,7 @@ public class YourLocation extends FragmentActivity implements LocationListener {
             requestHUBbutton.setText("Request HUB");
             requestActive = false;
 
-            ParseQuery<ParseObject> query = new ParseQuery<ParseObject>("Requests");
+            ParseQuery<ParseObject> query = new ParseQuery<>("Requests");
 
             query.whereEqualTo("requesterUsername", ParseUser.getCurrentUser().getUsername());
 
@@ -114,45 +118,39 @@ public class YourLocation extends FragmentActivity implements LocationListener {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_your_location);
         String username = getIntent().getStringExtra("Username");
-        TextView tv = (TextView)findViewById(R.id.TVusername);
+        TextView tv = (TextView) findViewById(R.id.TVusername);
         tv.setText(username);
-        setUpMapIfNeeded();
+
+        ((SupportMapFragment) getSupportFragmentManager().findFragmentById(R.id.map))
+                .getMapAsync(this);
+        if (ContextCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION)
+                == PackageManager.PERMISSION_GRANTED) {
+        } else {
+            Toast.makeText(this, "You have to accept to enjoy all app's services!", Toast.LENGTH_LONG).show();
+            if (ContextCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION)
+                    == PackageManager.PERMISSION_GRANTED) {
+
+            }
+        }
 
         infoTextView = (TextView) findViewById(R.id.infoTextView);
         requestHUBbutton = (Button) findViewById(R.id.requestHUB);
-
         locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
-        provider = locationManager.getBestProvider(new Criteria(), false);
+        locationManager.requestLocationUpdates(LocationManager.NETWORK_PROVIDER, MIN_TIME, MIN_DISTANCE, this); //You can also use LocationManager.GPS_PROVIDER and LocationManager.PASSIVE_PROVIDER
 
-        if (ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
-            // TODO: Consider calling
-            //    ActivityCompat#requestPermissions
-            // here to request the missing permissions, and then overriding
-            //   public void onRequestPermissionsResult(int requestCode, String[] permissions,
-            //                                          int[] grantResults)
-            // to handle the case where the user grants the permission. See the documentation
-            // for ActivityCompat#requestPermissions for more details.
-            return;
-        }
-        locationManager.requestLocationUpdates(provider, 400, 1, this);
+    }
 
-        Location location = locationManager.getLastKnownLocation(provider);
-
-        if (location != null) {
-
-
-            updateLocation(location);
-
-        }
-
-
+    @Override
+    public void onMapReady(GoogleMap googleMap) {
+        mMap = googleMap;
+        setUpMap();
     }
 
     public void updateLocation(final Location location) {
 
         mMap.clear();
 
-        if (requestActive == false) {
+        if (!requestActive) {
 
             ParseQuery<ParseObject> query = ParseQuery.getQuery("Requests");
             query.whereEqualTo("requesterUsername", ParseUser.getCurrentUser().getUsername());
@@ -193,7 +191,7 @@ public class YourLocation extends FragmentActivity implements LocationListener {
 
         }
 
-        if (requestActive == true) {
+        if (requestActive) {
 
             if (!driverUsername.equals("")) {
 
@@ -220,11 +218,12 @@ public class YourLocation extends FragmentActivity implements LocationListener {
 
                     Double distanceOneDP = (double) Math.round(distanceInMiles * 10) / 10;
 
-                    infoTextView.setText("Your driver is " + distanceOneDP.toString() + " miles away ");
+                    String dist = "Your driver is " + distanceOneDP.toString() + " miles away ";
+                    infoTextView.setText(dist);
 
                     LatLngBounds.Builder builder = new LatLngBounds.Builder();
 
-                    ArrayList<Marker> markers = new ArrayList<Marker>();
+                    ArrayList<Marker> markers = new ArrayList<>();
 
                     markers.add(mMap.addMarker(new MarkerOptions().position(new LatLng(driverLocation.getLatitude(), driverLocation.getLongitude())).icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_BLUE)).title("Driver Location")));
 
@@ -245,7 +244,7 @@ public class YourLocation extends FragmentActivity implements LocationListener {
 
             final ParseGeoPoint userLocation = new ParseGeoPoint(location.getLatitude(), location.getLongitude());
 
-            ParseQuery<ParseObject> query = new ParseQuery<ParseObject>("Requests");
+            ParseQuery<ParseObject> query = new ParseQuery<>("Requests");
 
             query.whereEqualTo("requesterUsername", ParseUser.getCurrentUser().getUsername());
 
@@ -275,100 +274,45 @@ public class YourLocation extends FragmentActivity implements LocationListener {
         }, 5000);
     }
 
-    @Override
-    protected void onResume() {
-        super.onResume();
-        setUpMapIfNeeded();
-
-        if (ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
-            // TODO: Consider calling
-            //    ActivityCompat#requestPermissions
-            // here to request the missing permissions, and then overriding
-            //   public void onRequestPermissionsResult(int requestCode, String[] permissions,
-            //                                          int[] grantResults)
-            // to handle the case where the user grants the permission. See the documentation
-            // for ActivityCompat#requestPermissions for more details.
-            return;
-        }
-        locationManager.requestLocationUpdates(provider, 400, 1, this);
-    }
-
-    /**
-     * Sets up the map if it is possible to do so (i.e., the Google Play services APK is correctly
-     * installed) and the map has not already been instantiated.. This will ensure that we only ever
-     * call {@link #setUpMap()} once when {@link #mMap} is not null.
-     * <p>
-     * If it isn't installed {@link SupportMapFragment} (and
-     * {@link com.google.android.gms.maps.MapView MapView}) will show a prompt for the user to
-     * install/update the Google Play services APK on their device.
-     * <p>
-     * A user can return to this FragmentActivity after following the prompt and correctly
-     * installing/updating/enabling the Google Play services. Since the FragmentActivity may not
-     * have been completely destroyed during this process (it is likely that it would only be
-     * stopped or paused), {@link #onCreate(Bundle)} may not be called again so we should call this
-     * method in {@link #onResume()} to guarantee that it will be called.
-     */
-    private void setUpMapIfNeeded() {
-        // Do a null check to confirm that we have not already instantiated the map.
-        if (mMap == null) {
-            // Try to obtain the map from the SupportMapFragment.
-            mMap = ((SupportMapFragment) getSupportFragmentManager().findFragmentById(R.id.map))
-                    .getMap();
-            // Check if we were successful in obtaining the map.
-            if (mMap != null) {
-                setUpMap();
+    private void setUpMap() {
+        if (ContextCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION)
+                == PackageManager.PERMISSION_GRANTED) {
+            mMap.setMyLocationEnabled(true);
+        } else {
+            Toast.makeText(this, "You have to accept to enjoy all app's services!", Toast.LENGTH_LONG).show();
+            if (ContextCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION)
+                    == PackageManager.PERMISSION_GRANTED) {
+                mMap.setMyLocationEnabled(true);
             }
         }
-    }
-
-    /**
-     * This is where we can add markers or lines, add listeners or move the camera. In this case, we
-     * just add a marker near Africa.
-     * <p>
-     * This should only be called once and when we are sure that {@link #mMap} is not null.
-     */
-    private void setUpMap() {
-
-    }
-
-    @Override
-    protected void onPause() {
-        super.onPause();
-
-        if (ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
-            // TODO: Consider calling
-            //    ActivityCompat#requestPermissions
-            // here to request the missing permissions, and then overriding
-            //   public void onRequestPermissionsResult(int requestCode, String[] permissions,
-            //                                          int[] grantResults)
-            // to handle the case where the user grants the permission. See the documentation
-            // for ActivityCompat#requestPermissions for more details.
-            return;
-        }
-        locationManager.removeUpdates(this);
 
     }
 
     @Override
     public void onLocationChanged(Location location) {
-
-        mMap.clear();
-
-        updateLocation(location);
+        LatLng latLng = new LatLng(location.getLatitude(), location.getLongitude());
+        CameraUpdate cameraUpdate = CameraUpdateFactory.newLatLngZoom(latLng, 10);
+        mMap.animateCamera(cameraUpdate);
+        if (ContextCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION)
+                == PackageManager.PERMISSION_GRANTED) {
+        } else {
+            Toast.makeText(this, "You have to accept to enjoy all app's services!", Toast.LENGTH_LONG).show();
+            if (ContextCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION)
+                    == PackageManager.PERMISSION_GRANTED) {
+            }
+        }
+        locationManager.removeUpdates(this);
     }
 
     @Override
-    public void onStatusChanged(String provider, int status, Bundle extras) {
-
-    }
+    public void onStatusChanged(String provider, int status, Bundle extras) { }
 
     @Override
-    public void onProviderEnabled(String provider) {
-
-    }
+    public void onProviderEnabled(String provider) { }
 
     @Override
-    public void onProviderDisabled(String provider) {
-
-    }
+    public void onProviderDisabled(String provider) { }
 }
+
+
+

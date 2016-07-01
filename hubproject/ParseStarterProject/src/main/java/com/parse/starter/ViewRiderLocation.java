@@ -82,7 +82,7 @@ public class ViewRiderLocation extends FragmentActivity implements OnMapReadyCal
         setContentView(R.layout.activity_view_rider_location);
         ((SupportMapFragment) getSupportFragmentManager().findFragmentById(R.id.map))
                 .getMapAsync(this);
-        i = getIntent();
+
 
 
        // RelativeLayout mapLayout = (RelativeLayout)findViewById(R.id.relativeLayout);
@@ -122,6 +122,8 @@ public class ViewRiderLocation extends FragmentActivity implements OnMapReadyCal
     }
 
     private void setUpMap() {
+        i = getIntent();
+
         LatLngBounds.Builder builder = new LatLngBounds.Builder();
 
         ArrayList<Marker> markers = new ArrayList<>();
