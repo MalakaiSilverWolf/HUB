@@ -17,6 +17,6 @@
     <string name="title_activity_your_location">YourLocation</string>
     <string name="google_app_id">forward-walker-133623</string>
     <string name="title_activity_view_rider_location">View Rider Location</string>
-    <string name="google_api_key">AIzaSyD5vfwWx9LcBZFgqXkh_9lvqbSoeRbAKBQ </string>
+    <string name="google_api_key">AIzaSyD5vfwWx9LcBZFgqXkh_9lvqbSoeRbAKBQ</string>
     <string name="emptyString" />
 </resources>

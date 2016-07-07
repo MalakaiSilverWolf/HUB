@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\values-az-rAZ\\values-az-rAZ.xml",
+        "outputFile": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\res\\merged\\release\\values-az-rAZ\\values-az-rAZ.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 148
                 },
                 "from": {
-                    "file": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 256
                 },
                 "from": {
-                    "file": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 379
                 },
                 "from": {
-                    "file": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 478
                 },
                 "from": {
-                    "file": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -83,17 +83,17 @@
                     "startLine": 6,
                     "startColumn": 4,
                     "startOffset": 483,
-                    "endColumn": 109,
-                    "endOffset": 588
+                    "endColumn": 111,
+                    "endOffset": 590
                 },
                 "from": {
-                    "file": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
                         "startOffset": 483,
-                        "endColumn": 109,
-                        "endOffset": 588
+                        "endColumn": 111,
+                        "endOffset": 590
                     }
                 }
             },
@@ -101,18 +101,18 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 593,
+                    "startOffset": 595,
                     "endColumn": 87,
-                    "endOffset": 676
+                    "endOffset": 678
                 },
                 "from": {
-                    "file": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 593,
+                        "startOffset": 595,
                         "endColumn": 87,
-                        "endOffset": 676
+                        "endOffset": 678
                     }
                 }
             },
@@ -120,18 +120,18 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 681,
+                    "startOffset": 683,
                     "endColumn": 106,
-                    "endOffset": 783
+                    "endOffset": 785
                 },
                 "from": {
-                    "file": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 681,
+                        "startOffset": 683,
                         "endColumn": 106,
-                        "endOffset": 783
+                        "endOffset": 785
                     }
                 }
             },
@@ -139,18 +139,18 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 788,
+                    "startOffset": 790,
                     "endColumn": 113,
-                    "endOffset": 897
+                    "endOffset": 899
                 },
                 "from": {
-                    "file": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 788,
+                        "startOffset": 790,
                         "endColumn": 113,
-                        "endOffset": 897
+                        "endOffset": 899
                     }
                 }
             },
@@ -158,18 +158,18 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 902,
+                    "startOffset": 904,
                     "endColumn": 80,
-                    "endOffset": 978
+                    "endOffset": 980
                 },
                 "from": {
-                    "file": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 902,
+                        "startOffset": 904,
                         "endColumn": 80,
-                        "endOffset": 978
+                        "endOffset": 980
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 983,
+                    "startOffset": 985,
                     "endColumn": 78,
-                    "endOffset": 1057
+                    "endOffset": 1059
                 },
                 "from": {
-                    "file": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 983,
+                        "startOffset": 985,
                         "endColumn": 78,
-                        "endOffset": 1057
+                        "endOffset": 1059
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1062,
+                    "startOffset": 1064,
                     "endColumn": 84,
-                    "endOffset": 1142
+                    "endOffset": 1144
                 },
                 "from": {
-                    "file": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1062,
+                        "startOffset": 1064,
                         "endColumn": 84,
-                        "endOffset": 1142
+                        "endOffset": 1144
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1147,
+                    "startOffset": 1149,
                     "endColumn": 106,
-                    "endOffset": 1249
+                    "endOffset": 1251
                 },
                 "from": {
-                    "file": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1147,
+                        "startOffset": 1149,
                         "endColumn": 106,
-                        "endOffset": 1249
+                        "endOffset": 1251
                     }
                 }
             },
@@ -234,18 +234,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1254,
+                    "startOffset": 1256,
                     "endColumn": 106,
-                    "endOffset": 1356
+                    "endOffset": 1358
                 },
                 "from": {
-                    "file": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1254,
+                        "startOffset": 1256,
                         "endColumn": 106,
-                        "endOffset": 1356
+                        "endOffset": 1358
                     }
                 }
             },
@@ -253,18 +253,18 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1361,
+                    "startOffset": 1363,
                     "endColumn": 99,
-                    "endOffset": 1456
+                    "endOffset": 1458
                 },
                 "from": {
-                    "file": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1361,
+                        "startOffset": 1363,
                         "endColumn": 99,
-                        "endOffset": 1456
+                        "endOffset": 1458
                     }
                 }
             },
@@ -272,18 +272,18 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1461,
+                    "startOffset": 1463,
                     "endColumn": 108,
-                    "endOffset": 1565
+                    "endOffset": 1567
                 },
                 "from": {
-                    "file": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1461,
+                        "startOffset": 1463,
                         "endColumn": 108,
-                        "endOffset": 1565
+                        "endOffset": 1567
                     }
                 }
             },
@@ -291,18 +291,18 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1570,
+                    "startOffset": 1572,
                     "endColumn": 103,
-                    "endOffset": 1669
+                    "endOffset": 1671
                 },
                 "from": {
-                    "file": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1570,
+                        "startOffset": 1572,
                         "endColumn": 103,
-                        "endOffset": 1669
+                        "endOffset": 1671
                     }
                 }
             },
@@ -310,18 +310,18 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1674,
+                    "startOffset": 1676,
                     "endColumn": 109,
-                    "endOffset": 1779
+                    "endOffset": 1781
                 },
                 "from": {
-                    "file": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1674,
+                        "startOffset": 1676,
                         "endColumn": 109,
-                        "endOffset": 1779
+                        "endOffset": 1781
                     }
                 }
             },
@@ -329,18 +329,18 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1784,
+                    "startOffset": 1786,
                     "endColumn": 96,
-                    "endOffset": 1876
+                    "endOffset": 1878
                 },
                 "from": {
-                    "file": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1784,
+                        "startOffset": 1786,
                         "endColumn": 96,
-                        "endOffset": 1876
+                        "endOffset": 1878
                     }
                 }
             },
@@ -348,12 +348,12 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1881,
+                    "startOffset": 1883,
                     "endColumn": 112,
-                    "endOffset": 1989
+                    "endOffset": 1991
                 },
                 "from": {
-                    "file": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -367,12 +367,12 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1994,
+                    "startOffset": 1996,
                     "endColumn": 111,
-                    "endOffset": 2101
+                    "endOffset": 2103
                 },
                 "from": {
-                    "file": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -386,12 +386,12 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 2106,
+                    "startOffset": 2108,
                     "endColumn": 97,
-                    "endOffset": 2199
+                    "endOffset": 2201
                 },
                 "from": {
-                    "file": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -405,12 +405,12 @@
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 2204,
+                    "startOffset": 2206,
                     "endColumn": 108,
-                    "endOffset": 2308
+                    "endOffset": 2310
                 },
                 "from": {
-                    "file": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -424,12 +424,12 @@
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 2313,
+                    "startOffset": 2315,
                     "endColumn": 121,
-                    "endOffset": 2430
+                    "endOffset": 2432
                 },
                 "from": {
-                    "file": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -443,12 +443,12 @@
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 2435,
+                    "startOffset": 2437,
                     "endColumn": 100,
-                    "endOffset": 2531
+                    "endOffset": 2533
                 },
                 "from": {
-                    "file": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -462,12 +462,12 @@
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 2536,
+                    "startOffset": 2538,
                     "endColumn": 95,
-                    "endOffset": 2627
+                    "endOffset": 2629
                 },
                 "from": {
-                    "file": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -481,12 +481,12 @@
                 "to": {
                     "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 2632,
+                    "startOffset": 2634,
                     "endColumn": 124,
-                    "endOffset": 2752
+                    "endOffset": 2754
                 },
                 "from": {
-                    "file": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -500,12 +500,12 @@
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 2757,
+                    "startOffset": 2759,
                     "endColumn": 104,
-                    "endOffset": 2857
+                    "endOffset": 2859
                 },
                 "from": {
-                    "file": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -519,12 +519,12 @@
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 2862,
+                    "startOffset": 2864,
                     "endColumn": 85,
-                    "endOffset": 2943
+                    "endOffset": 2945
                 },
                 "from": {
-                    "file": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -538,12 +538,12 @@
                 "to": {
                     "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 2948,
+                    "startOffset": 2950,
                     "endColumn": 94,
-                    "endOffset": 3038
+                    "endOffset": 3040
                 },
                 "from": {
-                    "file": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -557,18 +557,18 @@
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 3043,
+                    "startOffset": 3045,
                     "endColumn": 100,
-                    "endOffset": 3139
+                    "endOffset": 3141
                 },
                 "from": {
-                    "file": "C:\\Users\\Aaron\\HUB\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
+                    "file": "C:\\Users\\Malakai Silver\\Documents\\GitHub\\HUB\\hubproject\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-az-rAZ\\values-az-rAZ.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 1881,
+                        "startOffset": 1883,
                         "endColumn": 100,
-                        "endOffset": 1977
+                        "endOffset": 1979
                     }
                 }
             }

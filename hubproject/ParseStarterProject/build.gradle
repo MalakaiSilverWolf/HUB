@@ -5,16 +5,16 @@ android {
         config {
             keyAlias 'testkey'
             keyPassword 'aaronpassw0'
-            storeFile file('C:/Users/Aaron/HUB/HUB/hubproject/keystores/android.jks')
+            storeFile file('C:/Users/Malakai Silver/Documents/GitHub/HUB/hubproject/keystores/android.jks')
             storePassword 'aaronpassw0'
         }
     }
-    compileSdkVersion 23
+    compileSdkVersion 24
     buildToolsVersion '23.0.3'
     defaultConfig {
         applicationId "com.ride.hub"
         minSdkVersion 22
-        targetSdkVersion 23
+        targetSdkVersion 24
         versionCode 2
         versionName "2.0"
         multiDexEnabled true
@@ -36,9 +36,9 @@ android {
 }
 
 dependencies {
-    compile 'com.android.support:appcompat-v7:23.4.0'
+    compile 'com.android.support:appcompat-v7:24.0.0'
     compile 'com.parse.bolts:bolts-tasks:1.3.0'
     compile 'com.parse:parse-android:1.13.0'
-    compile 'com.google.android.gms:play-services:9.0.2'
-    compile 'com.android.support:multidex:1.0.0'
+    compile 'com.google.android.gms:play-services:9.2.0'
+    compile 'com.android.support:multidex:1.0.1'
 }

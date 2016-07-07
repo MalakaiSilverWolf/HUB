@@ -125,18 +125,26 @@ public class YourLocation extends FragmentActivity implements OnMapReadyCallback
                 .getMapAsync(this);
         if (ContextCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION)
                 == PackageManager.PERMISSION_GRANTED) {
+            infoTextView = (TextView) findViewById(R.id.infoTextView);
+            requestHUBbutton = (Button) findViewById(R.id.requestHUB);
+            locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
+            locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, MIN_TIME, MIN_DISTANCE, this);
         } else {
             Toast.makeText(this, "You have to accept to enjoy all app's services!", Toast.LENGTH_LONG).show();
             if (ContextCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION)
                     == PackageManager.PERMISSION_GRANTED) {
+                infoTextView = (TextView) findViewById(R.id.infoTextView);
+                requestHUBbutton = (Button) findViewById(R.id.requestHUB);
+                locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
+                locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, MIN_TIME, MIN_DISTANCE, this);
 
             }
         }
 
-        infoTextView = (TextView) findViewById(R.id.infoTextView);
-        requestHUBbutton = (Button) findViewById(R.id.requestHUB);
-        locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
-        locationManager.requestLocationUpdates(LocationManager.NETWORK_PROVIDER, MIN_TIME, MIN_DISTANCE, this); //You can also use LocationManager.GPS_PROVIDER and LocationManager.PASSIVE_PROVIDER
+        //infoTextView = (TextView) findViewById(R.id.infoTextView);
+        //requestHUBbutton = (Button) findViewById(R.id.requestHUB);
+        //locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
+        //locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, MIN_TIME, MIN_DISTANCE, this); //You can also use LocationManager.GPS_PROVIDER and LocationManager.PASSIVE_PROVIDER
 
     }
 
@@ -312,7 +320,5 @@ public class YourLocation extends FragmentActivity implements OnMapReadyCallback
 
     @Override
     public void onProviderDisabled(String provider) { }
+
 }
-
-
-

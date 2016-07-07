@@ -8,8 +8,11 @@
  */
 package com.parse.starter;
 
+import android.*;
+import android.Manifest;
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
@@ -31,6 +34,7 @@ import com.parse.SaveCallback;
 public class MainActivity extends AppCompatActivity {
     DatabaseHelper helper = new DatabaseHelper(this);
     Switch riderOrDriver;
+    int MY_PERMISSIONS_REQUEST_FINE_LOCATION;
 
     public void onButtonClick(View v){
         EditText mUser=(EditText) findViewById(R.id.TFusername);
@@ -105,6 +109,7 @@ public class MainActivity extends AppCompatActivity {
 
       getSupportActionBar().hide();
 
+      ActivityCompat.requestPermissions(this,new String[]{Manifest.permission.ACCESS_FINE_LOCATION},MY_PERMISSIONS_REQUEST_FINE_LOCATION);
       if(ParseUser.getCurrentUser().getUsername() == null){
           ParseAnonymousUtils.logIn(new LogInCallback() {
               @Override
@@ -123,6 +128,8 @@ public class MainActivity extends AppCompatActivity {
               redirectUser();
           }
       }
+
+
   }
 
   @Override
